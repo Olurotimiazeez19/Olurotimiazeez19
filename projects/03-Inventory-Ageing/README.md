@@ -1,4 +1,4 @@
-# Project 03: Inventory Ageing and Dead Stock Analysis
+# Project 03: Inventory Ageing and Dead-Stock Analysis
 
 ## Project Objective
 Analyse inventory ageing patterns to identify slow-moving, non-moving and potentially obsolete stock, quantify financial exposure and recommend corrective actions.
