@@ -1,0 +1,5 @@
+warehouse_id,warehouse_name,warehouse_type
+WH-DOH,Doha Central,Central
+WH-NTH,North Hub,Regional
+WH-STH,South Hub,Regional
+WH-PRJ,Projects Store,Project

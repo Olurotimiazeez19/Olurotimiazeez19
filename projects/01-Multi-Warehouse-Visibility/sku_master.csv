@@ -1,0 +1,81 @@
+sku,description,category,unit_cost_qAR,avg_monthly_demand,lead_time_days,safety_stock_qty,reorder_point_qty,target_stock_qty,criticality
+SKU-0001,Electrical material 001,Electrical,16.63,80,18,22,70,166,Critical
+SKU-0002,Mechanical material 002,Mechanical,7.0,31,10,10,20,57,High
+SKU-0003,Safety material 003,Safety,27.34,10,37,4,16,28,Standard
+SKU-0004,Consumables material 004,Consumables,52.73,23,38,13,42,69,Standard
+SKU-0005,IT & Controls material 005,IT & Controls,22.95,63,22,24,70,145,Standard
+SKU-0006,Electrical material 006,Electrical,14.19,50,20,14,47,107,Critical
+SKU-0007,Mechanical material 007,Mechanical,40.93,52,24,33,74,136,Critical
+SKU-0008,Safety material 008,Safety,125.48,34,8,15,24,64,Standard
+SKU-0009,Consumables material 009,Consumables,5.23,14,34,8,23,39,Standard
+SKU-0010,IT & Controls material 010,IT & Controls,75.66,17,12,5,11,31,Standard
+SKU-0011,Electrical material 011,Electrical,11.39,35,25,9,38,80,High
+SKU-0012,Mechanical material 012,Mechanical,217.93,82,5,29,42,140,Standard
+SKU-0013,Safety material 013,Safety,28.55,35,8,15,24,66,Standard
+SKU-0014,Consumables material 014,Consumables,20.06,72,42,46,146,232,Standard
+SKU-0015,IT & Controls material 015,IT & Controls,3.35,70,26,36,96,180,High
+SKU-0016,Electrical material 016,Electrical,13.83,20,39,5,31,55,Standard
+SKU-0017,Mechanical material 017,Mechanical,30.77,7,43,3,13,21,High
+SKU-0018,Safety material 018,Safety,21.2,3,37,2,5,8,Critical
+SKU-0019,Consumables material 019,Consumables,14.13,46,30,26,72,127,Critical
+SKU-0020,IT & Controls material 020,IT & Controls,32.76,66,15,23,56,135,Standard
+SKU-0021,Electrical material 021,Electrical,36.37,63,32,38,105,180,Critical
+SKU-0022,Mechanical material 022,Mechanical,43.95,35,44,20,71,113,Critical
+SKU-0023,Safety material 023,Safety,29.3,72,34,19,100,186,High
+SKU-0024,Consumables material 024,Consumables,11.7,62,13,23,49,123,Critical
+SKU-0025,IT & Controls material 025,IT & Controls,130.42,26,22,6,25,56,High
+SKU-0026,Electrical material 026,Electrical,7.37,66,33,27,99,178,Critical
+SKU-0027,Mechanical material 027,Mechanical,67.08,60,6,29,41,113,Standard
+SKU-0028,Safety material 028,Safety,7.05,63,18,25,62,137,High
+SKU-0029,Consumables material 029,Consumables,31.19,33,38,8,49,88,Standard
+SKU-0030,IT & Controls material 030,IT & Controls,20.74,16,11,9,14,33,High
+SKU-0031,Electrical material 031,Electrical,65.25,29,45,8,51,85,Critical
+SKU-0032,Mechanical material 032,Mechanical,64.94,71,25,42,101,186,High
+SKU-0033,Safety material 033,Safety,16.41,60,30,26,86,158,High
+SKU-0034,Consumables material 034,Consumables,42.93,30,35,16,51,87,High
+SKU-0035,IT & Controls material 035,IT & Controls,34.31,49,18,25,54,112,High
+SKU-0036,Electrical material 036,Electrical,86.07,23,20,12,27,54,High
+SKU-0037,Mechanical material 037,Mechanical,31.16,14,19,5,13,29,Standard
+SKU-0038,Safety material 038,Safety,6.32,12,40,3,19,33,Standard
+SKU-0039,Consumables material 039,Consumables,13.86,28,17,16,31,64,Standard
+SKU-0040,IT & Controls material 040,IT & Controls,8.12,84,13,53,89,189,Critical
+SKU-0041,Electrical material 041,Electrical,33.82,30,18,16,34,70,Standard
+SKU-0042,Mechanical material 042,Mechanical,14.09,81,31,23,106,203,High
+SKU-0043,Safety material 043,Safety,21.27,12,6,4,6,20,Critical
+SKU-0044,Consumables material 044,Consumables,21.72,73,11,23,49,136,Standard
+SKU-0045,IT & Controls material 045,IT & Controls,29.35,15,42,9,30,48,Standard
+SKU-0046,Electrical material 046,Electrical,44.49,83,15,41,82,181,High
+SKU-0047,Mechanical material 047,Mechanical,5.03,49,37,31,91,149,High
+SKU-0048,Safety material 048,Safety,7.03,12,32,3,15,29,High
+SKU-0049,Consumables material 049,Consumables,33.15,55,29,16,69,135,Critical
+SKU-0050,IT & Controls material 050,IT & Controls,107.3,61,9,17,35,108,Standard
+SKU-0051,Electrical material 051,Electrical,32.37,49,27,12,56,114,Standard
+SKU-0052,Mechanical material 052,Mechanical,53.77,46,7,21,31,86,Standard
+SKU-0053,Safety material 053,Safety,29.2,41,5,15,21,70,Standard
+SKU-0054,Consumables material 054,Consumables,26.24,45,22,26,59,113,High
+SKU-0055,IT & Controls material 055,IT & Controls,31.41,22,29,11,32,58,Critical
+SKU-0056,Electrical material 056,Electrical,15.86,68,27,31,92,173,Standard
+SKU-0057,Mechanical material 057,Mechanical,21.83,73,34,30,112,199,High
+SKU-0058,Safety material 058,Safety,22.67,55,32,15,73,139,High
+SKU-0059,Consumables material 059,Consumables,11.05,72,31,39,113,199,High
+SKU-0060,IT & Controls material 060,IT & Controls,13.56,13,42,6,24,39,High
+SKU-0061,Electrical material 061,Electrical,32.01,54,37,25,91,155,Critical
+SKU-0062,Mechanical material 062,Mechanical,22.84,78,25,21,86,179,High
+SKU-0063,Safety material 063,Safety,36.57,67,15,41,74,154,Standard
+SKU-0064,Consumables material 064,Consumables,8.37,34,13,11,25,65,Standard
+SKU-0065,IT & Controls material 065,IT & Controls,34.62,73,41,38,137,224,High
+SKU-0066,Electrical material 066,Electrical,14.58,80,45,21,141,237,Critical
+SKU-0067,Mechanical material 067,Mechanical,40.85,38,44,20,75,120,High
+SKU-0068,Safety material 068,Safety,58.99,7,36,3,11,19,Standard
+SKU-0069,Consumables material 069,Consumables,5.39,64,41,17,104,180,Standard
+SKU-0070,IT & Controls material 070,IT & Controls,27.54,16,11,9,14,33,High
+SKU-0071,Electrical material 071,Electrical,18.02,48,17,19,46,103,High
+SKU-0072,Mechanical material 072,Mechanical,22.0,13,20,3,11,26,Standard
+SKU-0073,Safety material 073,Safety,21.25,70,11,28,53,137,High
+SKU-0074,Consumables material 074,Consumables,4.19,29,5,10,14,48,High
+SKU-0075,IT & Controls material 075,IT & Controls,18.46,63,17,30,65,140,Standard
+SKU-0076,Electrical material 076,Electrical,12.0,70,17,27,66,150,High
+SKU-0077,Mechanical material 077,Mechanical,59.05,12,23,3,12,26,Standard
+SKU-0078,Safety material 078,Safety,6.3,6,25,2,7,14,Standard
+SKU-0079,Consumables material 079,Consumables,10.08,30,22,18,40,76,Critical
+SKU-0080,IT & Controls material 080,IT & Controls,44.41,48,22,24,59,116,Standard
