@@ -1,109 +1,49 @@
-## Hi, I'm an Inventory Intelligence & Supply Chain Analytics Professional 👋
+# Inventory Intelligence & Supply Chain Analytics Portfolio
 
-### Turning Inventory Data into Actionable Business Intelligence
+**Owner:** Olurotimi Azeez  
+**GitHub:** [@Olurotimiazeez19](https://github.com/Olurotimiazeez19)
 
-I am a Supply Chain and Inventory Management professional passionate about combining industry experience, data analytics and technology to solve complex operational challenges.
+A practical portfolio demonstrating how inventory and supply chain data can support better operational and commercial decisions.
 
-My interests include inventory intelligence, warehouse optimisation, procurement analytics, supply chain performance management and data-driven decision-making.
+## Portfolio objectives
+- Improve inventory visibility across warehouse locations.
+- Identify stockout, excess stock and ageing risks.
+- Strengthen stock accuracy and inventory controls.
+- Quantify inventory value and working-capital exposure.
+- Translate analysis into practical management actions.
 
-I am building a practical portfolio of 30 Inventory Analytics projects designed to demonstrate how organisations can use data to improve inventory visibility, reduce operational costs, optimise working capital and strengthen supply chain performance.
-
----
-
-## 🎯 Professional Focus
-
-- 📦 Inventory Management & Intelligence
-- 🚚 Supply Chain & Logistics Analytics
-- 🏭 Warehouse Operations & Optimisation
-- 📊 Data Analytics & Business Intelligence
-- 💰 Inventory Valuation & Working Capital Management
-- 🤝 Procurement & Supplier Performance Analytics
-- 🤖 AI Automation for Supply Chain Operations
-
-## 🛠️ Technical Skills & Tools
-
-| Category | Tools & Skills |
-|---|---|
-| Data Analysis | Microsoft Excel, PivotTables, XLOOKUP, SUMIFS |
-| Data Transformation | Power Query |
-| Database & Querying | SQL, SQLite |
-| Business Intelligence | Power BI, Tableau |
-| Supply Chain | Inventory Control, ABC/XYZ Analysis, Stock Reconciliation |
-| Analytics | KPI Development, Dashboard Design, Trend Analysis |
-| Automation | AI Automation, Process Improvement |
-
-## 📚 Featured Portfolio: 30 Inventory Analytics Projects
-
-**Portfolio:** Inventory Intelligence & Supply Chain Analytics Portfolio
-
-My portfolio focuses on practical business scenarios, synthetic datasets, analytical exercises, SQL queries, dashboards and management recommendations.
-
-### Completed Projects
-
-| Project | Project Title | Analytical Focus |
+## Projects in the current release
+| # | Project | Main focus |
 |---|---|---|
-| 01 | Multi-Warehouse Visibility | Stock visibility across multiple locations |
-| 02 | ABC/XYZ Inventory Classification | Inventory prioritisation and demand variability |
-| 03 | Inventory Ageing & Dead Stock | Slow-moving and obsolete inventory |
-| 04 | Stock Accuracy & Reconciliation | System versus physical stock accuracy |
-| 05 | Inventory Turnover & Stock Performance | Inventory efficiency and movement |
-| 06 | Inventory Valuation & Capital Exposure | Financial exposure and inventory value |
-| 07 | Excess Stock & Overstock Management | Excess inventory and working capital |
+| 01 | [Multi-Warehouse Inventory Visibility](projects/01-Multi-Warehouse-Visibility/README.md) | Compare on-hand, allocated, available and reorder positions across warehouse locations. |
+| 02 | [ABC/XYZ Inventory Classification](projects/02-ABC-XYZ-Classification/README.md) | Prioritise SKUs by annual consumption value and demand variability. |
+| 03 | [Inventory Ageing and Dead Stock](projects/03-Inventory-Ageing/README.md) | Identify ageing, slow-moving and potentially obsolete inventory. |
+| 04 | [Stock Accuracy and Reconciliation](projects/04-Stock-Accuracy/README.md) | Compare system balances with physical counts and quantify discrepancies. |
+| 05 | [Inventory Turnover and Stock Performance](projects/05-Inventory-Turnover/README.md) | Measure how efficiently inventory is moving and identify low-turnover items. |
+| 06 | [Inventory Valuation and Capital Exposure](projects/06-Inventory-Valuation/README.md) | Quantify inventory value and identify where working capital is tied up. |
+| 07 | [Excess Stock and Overstock Management](projects/07-Excess-Stock-Management/README.md) | Identify stock above target levels and estimate excess capital exposure. |
 
-### What Each Project Demonstrates
+## Repository structure
+```text
+data/       Synthetic CSV datasets
+projects/   Individual project briefs and deliverables
+sql/        Reusable SQL analysis scripts
+excel/      Excel workbook and analysis templates
+power-bi/   Power BI build guide and report documentation
+```
 
-- Business problem identification
-- Dataset preparation and cleaning
-- Excel analysis and dashboard development
-- SQL queries and database analysis
-- Inventory KPIs and performance measurement
-- Business insights and recommendations
-- Management reporting and documentation
+## Tools
+Microsoft Excel, SQL, Power Query, Power BI and Tableau.
 
-### Portfolio Roadmap
+## Data and evidence
+All supplied records are synthetic and intended for learning and demonstration. No confidential employer or customer information is included. Analytical conclusions should be calculated from the data rather than presented as real-world company results.
 
-My objective is to complete 30 practical projects covering the major areas of inventory management, procurement, warehouse operations and supply chain analytics.
+## How to use
+1. Clone or download this repository.
+2. Start with `data/inventory_snapshot.csv`.
+3. Read each project brief in `projects/`.
+4. Run the queries in `sql/inventory_analysis.sql` after importing the CSV into SQLite.
+5. Build and save Power BI reports locally, then add approved screenshots and documentation to `power-bi/`.
 
-## 📈 Key Performance Indicators I Work With
-
-- Inventory Turnover Ratio
-- Stock Accuracy Rate
-- Inventory Holding Cost
-- Days Inventory Outstanding (DIO)
-- Stockout Rate
-- Order Fulfilment Rate
-- Supplier On-Time Delivery
-- Excess & Obsolete Inventory
-- ABC Inventory Classification
-- Warehouse Performance
-
-## 💡 What I Am Currently Exploring
-
-- Advanced Excel for Inventory Analytics
-- SQL for Supply Chain Data Analysis
-- Power BI Dashboard Development
-- Procurement & Supplier Performance Analytics
-- AI-Powered Inventory Intelligence
-- Predictive Analytics for Demand and Stock Planning
-
-## 🤝 Let's Connect
-
-I am interested in connecting with professionals, recruiters, data analysts, supply chain experts and organisations exploring the intersection of inventory management, technology and business intelligence.
-
-**Let's turn operational data into smarter business decisions.**
-
-
-<!--
-**Olurotimiazeez19/Olurotimiazeez19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Roadmap
+This is the first release covering projects 1-7. Projects 8-30 will be added as their datasets, exercises, queries, dashboards and management outputs are developed.
