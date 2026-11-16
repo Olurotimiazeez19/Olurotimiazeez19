@@ -1,7 +1,7 @@
 # Project 04: Stock Accuracy and Inventory Reconciliation
 
 ## Project Objective
-Evaluate inventory record accuracy by comparing ERP system balances against physical stock counts, identifying discrepancies and recommending inventory control improvements.
+Evaluate inventory record accuracy by comparing ERP system balances with physical stock counts, identifying discrepancies, and recommending inventory-control improvements.
 
 ## Business Questions
 1. How accurately does the ERP reflect physical inventory?
