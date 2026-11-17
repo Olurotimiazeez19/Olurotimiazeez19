@@ -4,6 +4,16 @@
 ## Executive summary
 A synthetic inventory intelligence case study consolidating stock across four warehouses and 80 SKUs. The model includes on-hand, allocated and available balances, inventory value, replenishment parameters, days of cover and 12 months of movement history.
 
+## Interactive Executive Dashboard
+
+![Multi-Warehouse Inventory Executive Dashboard](Executive_Dashboard.png)
+
+**Tools:** Microsoft Excel 2019, PivotTables, PivotCharts, slicers, Excel formulas and SQL.
+
+[Download the interactive Excel dashboard](Multi_Warehouse_Inventory_Dashboard.xlsx)
+
+*The dashboard uses synthetic data for portfolio demonstration purposes.*
+
 **Snapshot date:** 16 November 2026 | **Currency:** Illustrative QAR | **Data:** Synthetic
 
 ## Business objective
