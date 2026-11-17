@@ -6,7 +6,7 @@ A synthetic inventory intelligence case study consolidating stock across four wa
 
 ## Interactive Executive Dashboard
 
-![Multi-Warehouse Inventory Executive Dashboard](Executive_Dashboard.png)
+![Multi-Warehouse Inventory Executive Dashboard](Executive_Dashboard.png.png)
 
 **Tools:** Microsoft Excel 2019, PivotTables, PivotCharts, slicers, Excel formulas and SQL.
 
